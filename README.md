@@ -54,9 +54,21 @@ pip install -r requirements.txt
 ---
 #### Add your Groq Cloud API key to .env or environment variables.
 
+## Usage
+
 ```bash
 python main.py
 ```
+Enter a prompt, e.g.:
+
+```bash
+"Create a calculator web application"
+```
+
+Watch as the agent plans → architects → codes your project.
+
+Check the output/ folder for your generated web app.
+
 
 ## 📂 Example Prompts
 
